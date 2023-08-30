@@ -1,0 +1,61 @@
+//1. 
+// a. indefinido
+// b. nulo
+// c. 11
+// d. 3
+// e. [3, 19, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+// f. 9
+
+
+//2. Será: ""SUBI NUM ÔNIBUS EM MIRROCOS" com 27 letras
+
+
+//EXERCICIOS DE ESCRITA:
+
+
+//1.
+//let nome = prompt("Qual é o seu nome?");
+//let email = prompt("Qual o seu e-mail?");
+
+//console.log("O e-mail", email, "foi cadastrado com sucesso. Seja bem-vinda(o),", nome + "!");
+
+//2.
+//let array = ["pizza", "lasanha", "cortina", "teclado", "rato"];
+
+//console.log(array);
+
+//console.log("Essas são minhas comidas preferidas:");
+//console.log(array[0]);
+//console.log(array[1]);
+//console.log(array[2]);
+//console.log(array[3]);
+//console.log(array[4]);
+
+//array[1] = prompt("Qual é a sua comida preferida?");
+
+//console.log(array);
+
+
+
+//3.
+//let listaDeTarefas = [] 
+
+//let tarefa1 = prompt("Digite a primeira tarefa");
+
+//listaDeTarefas.push(tarefa1);
+
+//let tarefa2 = prompt("Digite a segunda tarefa: ");
+
+//listaDeTarefas.push(tarefa2);
+
+//let tarefa3 = prompt("Digite a terceira tarefa:");
+
+//listaDeTarefas.push(tarefa3);
+
+//console.log(listaDeTarefas);
+
+//let feito = prompt("Digite qual das 0, 1 e 2 foram realizadas:");
+
+//listaDeTarefas.splice(feito, 1)
+
+//console.log(listaDeTarefas)
