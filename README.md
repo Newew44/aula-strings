@@ -1,1 +1,1 @@
-# exercicios-aula10
+# aula-strings
